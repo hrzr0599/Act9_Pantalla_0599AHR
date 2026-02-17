@@ -1,16 +1,8 @@
 # myapp
 
+<img width="478" height="801" alt="image" src="https://github.com/user-attachments/assets/ee84635a-4762-4081-b58a-6d4476791a75" />
+
+<img width="1228" height="868" alt="image" src="https://github.com/user-attachments/assets/3b005e3c-bf57-4ee5-a8f7-9a69a7c06cea" />
+
+
 A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
